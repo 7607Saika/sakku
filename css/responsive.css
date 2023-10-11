@@ -123,6 +123,13 @@
 	.bxx2 {
     right: 33px;
 }
+
+@media(max-width: 500px){
+	.bxximg{
+		display: flex;
+		margin: auto;
+	}
+}
 .head2{
 	text-align: center;
 	padding-top: 80px;
