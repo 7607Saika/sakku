@@ -674,10 +674,10 @@ svg{
 	border: 2px solid skyblue;
 	color: skyblue;
 }
-footer{
+/*footer{
 	border-top: 1px solid #ddd;
 	margin-top: 80px;
-}
+}*/
 footer p{
 	text-align: center;
 	color: grey;
