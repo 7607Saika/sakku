@@ -467,16 +467,21 @@ svg{
 	color: burlywood;
 	text-shadow: 15px 15px 40px red;
 }
+.imgbx{
+	position: relative;
+	}
 
 
 .imgbx img{
-	width: 400px;
+	width: 100%;
 	border: 10px solid white;
     border-radius: 30px 0px 30px 0px;
     box-shadow: 10px 10px 30px orange;
 	height: 400px;
 	object-fit: cover;
 	margin-top: -50px;
+	position: absolute;
+	left: 15px;
 } 
 .skillhead{
 	font-size: 30px;

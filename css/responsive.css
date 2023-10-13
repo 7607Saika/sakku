@@ -139,6 +139,7 @@
 	}
 	.name{
 		font-size: 50px;
+		text-align: center;
 	}
 	.herobx img{
 		width: 360px;
@@ -157,6 +158,20 @@
 	.bxx4{
 		left: 240px;
 		top: -90px;
+	}
+	@media(max-width: 400px){
+		.bxx3{
+			left: 174px;
+		}
+		.bxx4{
+			left: 171px;
+		}
+		.bxx1{
+			left: 25px;
+		}
+		.bxx2{
+			right: 10px;
+		}
 	}
 footer p{
 	padding-top: 20px;
