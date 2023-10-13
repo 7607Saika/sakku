@@ -172,10 +172,15 @@
 		.bxx2{
 			right: 10px;
 		}
-	}
-footer p{
-	padding-top: 20px;
+		.bxximg img{
+			position: absolute;
+			left: 20px;
+		}
+		footer p{
+	padding-top: 60px;
 }
+	}
+
 
 }
 .head2{
