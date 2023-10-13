@@ -112,7 +112,7 @@
 }
 @media(max-width: 620px){
 	.bxx3{
-     left: 268px;
+     left: 260px;
 	}
 	.bxx1{
 		left: 57px;
@@ -125,9 +125,44 @@
 }
 
 @media(max-width: 500px){
-	.bxximg{
+	.bximg img{
+		width: 400px;
+		height: 100px;
 		display: flex;
 		margin: auto;
+	}
+	.bxximg img{
+		width: 400px;
+	   position: absolute;
+	   left: 60px;
+	   top: 0px;
+	}
+	.name{
+		font-size: 50px;
+	}
+	.herobx img{
+		width: 360px;
+		height: 400px;
+	}
+	.bxx3{
+		left: 240px;
+		top: -417px;
+	}
+	.bxx1{
+		top: -250px;
+	}
+	.bxx2{
+		right: 55px;
+	}
+	.bxx4{
+		left: 240px;
+		top: -90px;
+	}
+
+	.abimg{
+		width: 200px;
+		height: 200px;
+		object-fit: cover;
 	}
 }
 .head2{
