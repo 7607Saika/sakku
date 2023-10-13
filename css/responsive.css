@@ -48,9 +48,9 @@
 	width: 100%;
 	margin-top: 0;
 }
-.imgbx img{
+/*.imgbx img{
 	margin-top: 39px;
-}
+}*/
 .bxx2 {
 	right: 198px;
 }
@@ -175,10 +175,10 @@
 .mainbx2{
 	justify-content: center;
 }
-.imgbx img{
+/*.imgbx img{
 	width: 100%;
 	height: 500px;
-}
+}*/
 .progresbx{
 	padding-top: 0;
 }
