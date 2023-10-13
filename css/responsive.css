@@ -206,3 +206,11 @@
 	padding-top: 20px;
 }                                                                                                                 
 }
+
+@media(max-width: 400px){
+	.imgbx img{
+		width: 200px;
+		height: 300px;
+		display: block!important;
+	}
+}
